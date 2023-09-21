@@ -1,38 +1,60 @@
-#Markdown cheat sheet
+# Markdown Cheat Sheet
+
 ---
-##Base terminal's commands
-###cd - "change directory"
-___
-pwd - "print working directory"
-___
-ls - "list"
-#### Example
 
+## Base Terminal Commands
+
+### `cd` - Change Directory
+
+---
+
+### `pwd` - Print Working Directory
+
+---
+
+### `ls` - List
+
+#### Example:
+
+\`\`\`
 ls -la
+\`\`\`
 
--l detailed information
+- `-l`: Detailed information
+- `-a`: Hidden files
 
--a hidden files
-___
-###
-mkdir "make directory"
-___
-touch create file
-___
-rm remove file
--r "recurrent"
--f "force"
-___
-nano - notepad mode
-___
-. - current directory
-.. - previous directory
-___
-## git commands
-### 
-git init 
-git add
-git commit -m ""
-git push
-###
+---
+
+### `mkdir` - Make Directory
+
+---
+
+### `touch` - Create File
+
+---
+
+### `rm` - Remove File
+
+- `-r`: Recurrent
+- `-f`: Force
+
+---
+
+### `nano` - Notepad Mode
+
+---
+
+### Directories
+
+- `.`: Current directory
+- `..`: Previous directory
+
+---
+
+## Git Commands
+
+- `git init`
+- `git add`
+- `git commit -m ""`
+- `git push`
 
